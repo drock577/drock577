@@ -1,21 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
 My biggest strength is seeing potential solutions to problems you didn’t know exist. I enjoy innovating novel solutions to difficult problems from identifying American Sign Language with just a camera to explaining black box machine learning models. My greatest satisfaction is seeing these innovations work.
 
 I have developed solutions to difficult problems in computer vision, natural language, and reinforcement learning domains. Innovation is fun!
 
 Recent graduate with Masters in computer science, emphasis on big data. Earned a BS in Computer Science, graduated Magna Cum Laude, Fulton School of Engineering, Arizona State University.
-<!--
-**drock577/drock577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Intel Explainable AI (XAI) Tools]([linkurl](https://github.com/IntelAI/intel-xai-tools))
+  - Contributor
+
+
+### Contact Me
+- [Personal Website](http://dylanlang.ai/)
