@@ -6,7 +6,7 @@ I have developed solutions to difficult problems in computer vision, natural lan
 
 Recent graduate with Masters in computer science, emphasis on big data. Earned a BS in Computer Science, graduated Magna Cum Laude, Fulton School of Engineering, Arizona State University.
 
-### Projects
+### Projects I've Contributed To
 
 - [Intel Explainable AI (XAI) Tools](https://github.com/IntelAI/intel-xai-tools)
   - Contributor
