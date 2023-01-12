@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Dylan!
 
 My biggest strength is seeing potential solutions to problems you didn’t know exist. I enjoy innovating novel solutions to difficult problems from identifying American Sign Language with just a camera to explaining black box machine learning models. My greatest satisfaction is seeing these innovations work.
 
