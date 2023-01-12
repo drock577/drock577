@@ -8,7 +8,7 @@ Recent graduate with Masters in computer science, emphasis on big data. Earned a
 
 ### Projects
 
-- [Intel Explainable AI (XAI) Tools]([linkurl](https://github.com/IntelAI/intel-xai-tools))
+- [Intel Explainable AI (XAI) Tools](https://github.com/IntelAI/intel-xai-tools)
   - Contributor
 
 
